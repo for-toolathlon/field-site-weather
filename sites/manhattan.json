@@ -1,7 +1,20 @@
 {
-  "site": "Manhattan",
-  "coordinates": { "latitude": 40.7547, "longitude": -73.9842 },
-  "coordinate source": "https://en.wikipedia.org/wiki/Midtown,_Manhattan",
-  "nearest_stations": [ { "id": "KNYC", "name": "New York City, Central Park", "distance_miles": 2.0, "latest_temp_f": 55.9 } ],
-  "current_conditions": { "reported_at": "2026-11-20T09:54:00Z", "temperature_f": 55.9, "condition": "Clear", "humidity_percent": 37, "pressure_inHg": 30.35, "visibility_miles": 10.0 }
+  'summary': 'Manhattan office in Midtown East, at the intersection of 42nd Street and 7th Avenue.',
+  'keyword': 'field office Midtown Manhattan',
+  'site': 'manhattan',
+  'coordinates': {
+    'lat': 40.7547,
+    'lng': -73.9842,
+    'source': 'https://en.wikipedia.org/wiki/Midtown_East'
+  },
+  'nearest_stations': [
+    { 'station_id': 'KNYC', 'name': 'New York City, Central Park', 'distance': 2.0 },
+    { 'station_id': 'KLGA', 'name': 'New York, La Guardia Airport', 'distance': 5.3 },
+    { 'station_id': 'KTEB', 'name': 'Teterboro, Teterboro Airport', 'distance': 8.4 },
+    { 'station_id': 'KEWR', 'name': 'Newark, Newark International Airport', 'distance': 11.3 },
+    { 'station_id': 'KJFK', 'name': 'New York, Kennedy International Airport', 'distance': 13.6 },
+    { 'station_id': 'KCDW', 'name': 'Caldwell, Essex County Airport', 'distance': 18.2 },
+    { 'station_id': 'KMMU', 'name': 'Morristown Airport', 'distance': 23.3 }
+  ],
+  'current_conditions': { 'station_id': 'KNYC', 'temperature_f': 55.9, 'humidity': 37, 'pressure': 30.35, 'conditions': 'Clear' }
 }
