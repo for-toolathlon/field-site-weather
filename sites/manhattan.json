@@ -1,0 +1,20 @@
+{
+  'summary': 'Manhattan office in Midtown East, at the intersection of 42nd Street and 7th Avenue.',
+  'keyword': 'field office Midtown Manhattan',
+  'site': 'manhattan',
+  'coordinates': {
+    'lat': 40.7547,
+    'lng': -73.9842,
+    'source': 'https://en.wikipedia.org/wiki/Midtown_East'
+  },
+  'nearest_stations': [
+    { 'station_id': 'KNYC', 'name': 'New York City, Central Park', 'distance': 2.0 },
+    { 'station_id': 'KLGA', 'name': 'New York, La Guardia Airport', 'distance': 5.3 },
+    { 'station_id': 'KTEB', 'name': 'Teterboro, Teterboro Airport', 'distance': 8.4 },
+    { 'station_id': 'KEWR', 'name': 'Newark, Newark International Airport', 'distance': 11.3 },
+    { 'station_id': 'KJFK', 'name': 'New York, Kennedy International Airport', 'distance': 13.6 },
+    { 'station_id': 'KCDW', 'name': 'Caldwell, Essex County Airport', 'distance': 18.2 },
+    { 'station_id': 'KMMU', 'name': 'Morristown Airport', 'distance': 23.3 }
+  ],
+  'current_conditions': { 'station_id': 'KNYC', 'temperature_f': 55.9, 'humidity': 37, 'pressure': 30.35, 'conditions': 'Clear' }
+}
