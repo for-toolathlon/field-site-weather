@@ -1,0 +1,7 @@
+{
+  "site": "Chicago",
+  "coordinates": { "latitude": 41.88111, "longitude": -87.62972 },
+  "coordinate source": "https://en.wikipedia.org/wiki/The_Loop,_Chicago",
+  "nearest_stations": [ { "id": "KMDW", "name": "Chicago, Chicago Midway Airport", "distance_miles": 9.6, "latest_temp_f": 53.6 } ],
+  "current_conditions": { "reported_at": "2026-11-20T08:54:00Z", "temperature_f": 53.6, "condition": "Clouds", "humidity_percent": 67, "source_station_id": "KMDW", "pressure_inHg": 30.31, "visibility_miles": 10.0 }
+}

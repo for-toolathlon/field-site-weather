@@ -1,0 +1,7 @@
+{
+  "site": "San Francisco",
+  "coordinates": { "latitude": 37.77722, "longitude": -122.41111 },
+  "coordinate source": "https://en.wikipedia.org/wiki/South_of_Market,_San_Francisco",
+  "nearest_stations": [ { "id": "SFOC1", "name": "SAN FRANCISCO DOWNTOWN", "distance_miles": 1.0, "latest_temp_f": 50.5 } ],
+  "current_conditions": { "reported_at": "2026-11-11-20T06:54:00Z", "temperature_f": 50.5, "condition": "Clear", "humidity_percent": 95, "source_station_id": "SFOC1", "pressure_inHg": 30.35, "visibility_miles": 10.0 }
+}

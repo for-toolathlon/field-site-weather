@@ -1,0 +1,7 @@
+{
+  "site": "Manhattan",
+  "coordinates": { "latitude": 40.7547, "longitude": -73.9842 },
+  "coordinate source": "https://en.wikipedia.org/wiki/Midtown,_Manhattan",
+  "nearest_stations": [ { "id": "KNYC", "name": "New York City, Central Park", "distance_miles": 2.0, "latest_temp_f": 55.9 } ],
+  "current_conditions": { "reported_at": "2026-11-20T09:54:00Z", "temperature_f": 55.9, "condition": "Clear", "humidity_percent": 37, "pressure_inHg": 30.35, "visibility_miles": 10.0 }
+}
