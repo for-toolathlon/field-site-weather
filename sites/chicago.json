@@ -1,7 +1,1 @@
-{
-  "site": "Chicago",
-  "coordinates": { "latitude": 41.88111, "longitude": -87.62972 },
-  "coordinate source": "https://en.wikipedia.org/wiki/The_Loop,_Chicago",
-  "nearest_stations": [ { "id": "KMDW", "name": "Chicago, Chicago Midway Airport", "distance_miles": 9.6, "latest_temp_f": 53.6 } ],
-  "current_conditions": { "reported_at": "2026-11-20T08:54:00Z", "temperature_f": 53.6, "condition": "Clouds", "humidity_percent": 67, "source_station_id": "KMDW", "pressure_inHg": 30.31, "visibility_miles": 10.0 }
-}
+{"site":"chicago","coordinates":{"lat":41.88111,"lng":-87.62972,"source":"https://en.wikipedia.org/wiki/Chicago_Loop"},"nearest_stations":[{"station_id":"KMDW","name":"Chicago, Chicago Midway Airport","distance":9.6},{"station_id":"KORD","name":"Chicago-O\u2018eurt International Airport","distance":16.4},{"station_id":"KGYY","name":"Gary Regional Airport","distance":21.2},{"station_id":"KPWK","name":"Chicago / Wheeling, Pal-Waukee Airport","distance":22.4},{"station_id":"KIGQ","name":"Lansing Municipal Airport","distance":23.6},{"station_id":"KLOT","name":"Lewis University Airport","distance":31.3},{"station_id":"KDPA","name":"Chicago/West Chicago, Dupage Airport","distance":32.6}],"current_conditions":{"station_id":"KMDW","temperature_f":53.6,"humidity":67,"wind":25,"pressure":30.31,"visibility":10}}
