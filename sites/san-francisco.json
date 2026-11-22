@@ -1,7 +1,35 @@
 {
-  "site": "San Francisco",
-  "coordinates": { "latitude": 37.77722, "longitude": -122.41111 },
-  "coordinate source": "https://en.wikipedia.org/wiki/South_of_Market,_San_Francisco",
-  "nearest_stations": [ { "id": "SFOC1", "name": "SAN FRANCISCO DOWNTOWN", "distance_miles": 1.0, "latest_temp_f": 50.5 } ],
-  "current_conditions": { "reported_at": "2026-11-11-20T06:54:00Z", "temperature_f": 50.5, "condition": "Clear", "humidity_percent": 95, "source_station_id": "SFOC1", "pressure_inHg": 30.35, "visibility_miles": 10.0 }
+  "site_name": "San Francisco SoMa",
+  "coordinates": {
+    "lat": 37.77750,
+    "lng": -122.41639
+  },
+  "coordinate_source_url": "https://en.wikipedia.org/wiki/San_Francisco#SoMa",
+  "nearest_stations": [
+    {
+      "station_id": "SFOC1",
+      "name": "SAN FRANCISCO DOWNTOWN",
+      "distance_miles": 1.0
+    },
+    {
+      "station_id": "OAMC1",
+      "name": "Oakland Museum",
+      "distance_miles": 8.2
+    },
+    {
+      "station_id": "D3169",
+      "name": "DW3169 Oakland",
+      "distance_miles": 9.6
+    }
+  ],
+  "current_conditions_snapshot": {
+    "station_id": "SFOC1",
+    "temperature_f": 51.4,
+    "conditions": "Humidity: 88",
+    "humidity_pct": 88,
+    "wind_mph": null,
+    "wind_direction": null,
+    "pressure_inHg": null,
+    "visibility_miles": null
+  }
 }
