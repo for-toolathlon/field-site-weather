@@ -1,0 +1,12 @@
+{
+  "site_name": "Chicago",
+  "coordinates": {
+    "lat": 41.88111,
+    "lng": -87.62972,
+    "dms": "41\u00b052\u203217\"N 87\u00b737\u203047\"W"
+  },
+  "coordinate_source_url": "https://en.wikipedia.org/wiki/Loop,_Chicago",
+  "nearest_stations": [
+    {"id": "KMDW", "name": "Chicago Midway Airport", "distance": "9.6 miles"},
+    {"id": "KORD", "name": "How" 
+},

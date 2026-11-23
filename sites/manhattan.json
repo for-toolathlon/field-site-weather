@@ -1,0 +1,19 @@
+{
+  "site_name": "Manhattan",
+  "coordinates": {
+    "lat": 40.7547,
+    "lng": -73.9842,
+    "dms": "40\u00b045\u203217\"N 73\u00b059\u20303\"W"
+  },
+  "coordinate_source_url": "https://en.wikipedia.org/wiki/Midtown_East",
+  "nearest_stations": [
+    {"id": "KNYC", "name": "New York City, Central Park", "distance": "2.0 miles"},
+    {"id": "KLGA", "name": "New York, La Guardia Airport", "distance": "5.3 miles"},
+    {"id": "KTEB", "name": "Teterboro, Teterboro Airport", "distance": "8.4 miles"},
+    {"id": "KEWR", "name": "Newark, Newark International Airport", "distance": "11.3 miles"},
+    {"id": "KJFK", "name": "N
+e" "distance": "13.6 miles"
+  ],
+  "current_conditions": {"station": "KNYC", "temperature": "54.0\u00f0 (12.2\u00b0C)", "conditions": "Mostly Clear", "humidity": "86%", "wind": "12 mph from 50\u00b0", "pressure": "30.32 inHg", "visibility": "8.0 miles", "observed": "11/21/2026, 10:51 PM local"
+}
+}
